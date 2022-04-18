@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
-欢迎访问空管新青年，在这里你可以免费自由的下载到你想要的资料，但在此之前请阅读我们的相关规定。
- [下载资料](/资料.jpg)
-[backup.md](/backup.md)
+## 欢迎来到shy的博客
+## Welcome to SHY's blog
+
+#个人信息
+
+#公众号：空管新青年（交通运输专业资料下载）
