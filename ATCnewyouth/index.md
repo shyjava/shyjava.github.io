@@ -7,3 +7,5 @@
 ## [交通运输专业资料目录](transportationdata/transportationdata.md)
 
 ## [实验报告目录](labreport/labreport.md)
+
+## [考试资料目录](examdata/examdata.md)
