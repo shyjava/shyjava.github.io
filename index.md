@@ -3,4 +3,4 @@
 
 #[个人信息](/mymes.md)
 
-#[公众号：空管新青年（交通运输专业资料下载）](/actnewyouth/index.md)
+#[公众号：空管新青年（交通运输专业资料下载）](/ATCnewyouth/index.md)
